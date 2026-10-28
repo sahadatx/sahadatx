@@ -34,4 +34,4 @@ I focus on authorized security assessments across web, API, and mobile applicati
 ## Training & Credentials
 
 - **API Penetration Testing** · [View Credly badge](https://www.credly.com/badges/e4f18d10-a838-4348-9a9b-4fa4282b10aa/)
-- **LinkedIn Learning Certificate** · [View certificate](https://www.linkedin.com/learning/certificates/7ae09058a017a38e391e1d0e4129925cfc6465d26ddfbcbb06cef7c8d8f79f4c?trk=share_certificate)
+- **Penetration Testing Professional Certificate by Cybrary** · [View LinkedIn Learning certificate](https://www.linkedin.com/learning/certificates/7ae09058a017a38e391e1d0e4129925cfc6465d26ddfbcbb06cef7c8d8f79f4c?trk=share_certificate)
