@@ -13,34 +13,9 @@ Web Application Security · API Security · Mobile App Security
 
 ---
 
-## Profile
+## About
 
 I focus on authorized security assessments across web, API, and mobile applications. I build Python-based tools for reconnaissance and vulnerability testing, alongside platforms for secure coding, network detection, and security operations.
-
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sahadatx/Web-Vulnerability-Scanner">Web Vulnerability Scanner</a></h3>
-      <p>Potential SQL Injection (SQLi) and reflected Cross-Site Scripting (XSS) checks, with security analysis and JSON/HTML reports.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sahadatx/SentinelSIEM">SentinelSIEM</a></h3>
-      <p>Centralized security monitoring, incident investigation, threat intelligence, and audit logging.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sahadatx/Recon-Automation-Framework">Recon Automation Framework</a></h3>
-      <p>Modular workflows for authorized attack-surface reconnaissance and security testing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sahadatx/Network-Intrusion-Detection-System">Network Intrusion Detection System</a></h3>
-      <p>Snort 3 detection rules and Python tools for network alert analysis.</p>
-    </td>
-  </tr>
-</table>
 
 ## Technology Stack
 
